@@ -11,3 +11,6 @@ dev update
 
 test
 update
+
+test delete
+test update
